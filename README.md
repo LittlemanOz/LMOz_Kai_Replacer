@@ -1,5 +1,7 @@
 # LMOz_Kai_Replacer
-A Freedom Wars mod that replaces Kai.
+A Freedom Wars mod that replaces Kai. 
+
+![Kai](https://github.com/LittlemanOz/LMOz_Kai_Replacer/assets/154644727/0ffbdcb9-138d-4c29-b82b-02e37f5c3ec8)
 
 INSTALLATION 
 

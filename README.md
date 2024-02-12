@@ -20,7 +20,7 @@ Vita3k Install:
 
 1. Install Patch 1.20.
 2. Go to your Vita3k Directory open Programfiles.
-3. Merge the folder "patch_v0120" from the repository into ux0/app/[Your version of Freedom Wars]/patch_v0120. Alternitively you can move just the file "Kai.xml" into the same location within the Patch folder.
+3. Merge the folder "patch_v0120" from the repository into ux0/app/[Your version of Freedom Wars]/patch_v0120. Alternatively you can move just the file "Kai.xml" into the same location within the Patch folder.
 4. Done!
 
 GALLERY:

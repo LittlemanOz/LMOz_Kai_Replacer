@@ -14,7 +14,7 @@ JP & EU Versions
 3. Move the folder "patch_v0120" from the repository into ux0:rePatch/PCSC00054 or for EU ux0:rePatch/PCSC00446.
 4. Done!
 
-   I haven't tested the US version but hopefully it should be simmilar.
+   I haven't tested the US version but hopefully it should be similar.
 
 Vita3k Install:
 

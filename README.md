@@ -1,5 +1,5 @@
 # LMOz_Kai_Replacer
-A Freedom Wars mod that replaces Kai. If you're how Kai's appearance will change, the gallary will be at the bottom.
+A Freedom Wars mod that replaces Kai. If you're wondering how Kai's appearance will change, the gallary will be at the bottom.
 
 INSTALLATION 
 
